@@ -1,0 +1,2 @@
+Vamos a crear un texto desde remoto
+Eliminamos la branch anterior y cogemos este texto, lo modificamos en la nueva branch y para arriba
